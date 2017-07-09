@@ -6,7 +6,7 @@ This project concerns the design of an oscilloscope on microcontroller that allo
 The company didn't allow me to show the code, but you can view a report in italian in this [repository](https://github.com/Giuscar/Image-viewer-on-board-STM32f429I-DISCOVERY/blob/master/Monografia%20(italian).pdf)
 
 # Result
-There are some pictures available that show some results about what this software is able to do. In these pictures you can see an oscilloscope connected with the board. On the board the curve set on the oscilloscope will appear on the board screen.
+There are some pictures available that show some results about what this software is able to do. In these pictures you can see an oscilloscope connected with the board. The curve set on the oscilloscope will appear on the board screen.
 These results are some examples:
 - Sinusoidal wave with 2.9V of amplitude and with frequency of 1Hz [board](https://github.com/Giuscar/Image-viewer-on-board-STM32f429I-DISCOVERY/blob/master/Results/1B.jpg) - [oscilloscope](https://github.com/Giuscar/Image-viewer-on-board-STM32f429I-DISCOVERY/blob/master/Results/1O.jpg)
 - Sinusoidal wave with 2.9V of amplitude and with frequency of 5Hz [board](https://github.com/Giuscar/Image-viewer-on-board-STM32f429I-DISCOVERY/blob/master/Results/2B.png) - [oscilloscope](https://github.com/Giuscar/Image-viewer-on-board-STM32f429I-DISCOVERY/blob/master/Results/2O.png)
